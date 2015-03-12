@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22512.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C330F379-4824-48DB-8E5B-675002AC0248}"
+	ProjectSection(SolutionItems) = preProject
+		SmartSuggestion.cs = SmartSuggestion.cs
+		SmartSuggestion.js = SmartSuggestion.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
